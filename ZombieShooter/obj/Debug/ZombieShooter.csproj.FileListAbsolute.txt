@@ -1,0 +1,30 @@
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe.config
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.pdb
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.MainForm.resources
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.Properties.Resources.resources
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.exe
+C:\Users\Elev\Documents\c#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe.config
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\bin\Debug\ZombieShooter.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.MainForm.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.Properties.Resources.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\Shooter\ZombieShooter\obj\Debug\ZombieShooter.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe.config
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\bin\Debug\ZombieShooter.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.MainForm.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.Properties.Resources.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Shooter\ZombieShooter\obj\Debug\ZombieShooter.pdb
